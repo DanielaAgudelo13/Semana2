@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="preguntaTxt" type="id" />
+    <item name="respuestaUsuario" type="id" />
+    <item name="contadorText" type="id" />
+    <item name="contadorUsuario" type="id" />
+    <item name="responder" type="id" />
+    <item name="puntajeText" type="id" />
+    <item name="preguntaText" type="id" />
+</resources>
